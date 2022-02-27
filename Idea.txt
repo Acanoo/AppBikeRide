@@ -1,0 +1,19 @@
+APLICACIÓN BIKE FRIEND
+
+App que junta a 2 o más personas.
+
+Interfaz de mapa tipo waze, la cual muestra el icono de las personas juntadas para salir a dar un recorrido.
+
+Cada persona tendrá un código único de identificación el cual funciona para unirse con otros. 
+
+Sensor mide la velocidad en que se está viajando y se muestra en la Interfaz del usuario. (hay que encontrár la forma de poder medir la velocidad del usuario) 
+
+El usuario decide en qué ubicación quiere aparecer ( ya sea donde se ubique el amigo o en su ciudad, tomando la variable de ubicación de el o la de su amigo donde empezarán el recorrido) 
+
+Habrá comunicacion abierta por micrófono (voz) y por video entre usuarios. 
+
+El icono de usuarios mostrado en mapa se moverá según indique el gps, tomando en cuenta si alguno de los usuarios se detiene debe reflejarse en la interfaz 
+
+Habrá modulos de. 
+
+Inicio de sesión usando api de Google, Facebook y hotmail.
