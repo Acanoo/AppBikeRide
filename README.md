@@ -1,2 +1,2 @@
-# AppBikeRide
+# AppBikeFriend
 App BikeFriend
